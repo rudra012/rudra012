@@ -1,4 +1,8 @@
-### Hi there 👋
+### HELLO Shailesh Rudra HERE!
+
+I am Sr. Software Developer working at Larsen and Tubro Infotech Pune.
+
+For more details please check [HERE](https://shailesh-rudra.herokuapp.com/)
 
 <!--
 **rudra012/rudra012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
