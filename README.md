@@ -1,6 +1,6 @@
 ### HELLO Shailesh Rudra HERE!
 
-I am Sr. Software Developer working at Larsen and Tubro Infotech Pune.
+I working as a Project Lead at Persistent Systems at Pune.
 
 For more details please check [HERE](https://shailesh-rudra.herokuapp.com/)
 
