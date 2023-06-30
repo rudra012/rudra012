@@ -2,8 +2,6 @@
 
 I working as a Project Lead at Persistent Systems at Pune.
 
-For more details please check [HERE](https://shailesh-rudra.herokuapp.com/)
-
 <!--
 **rudra012/rudra012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
